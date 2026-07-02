@@ -130,11 +130,9 @@ Some of the insights generated include:
 Dashboard screenshots can be found in the **images** folder.
 
 ---
-
 ## Data Notice
 
-This project uses a **simulated dataset** created for portfolio and educational purposes. While the business scenario is based on Calgary Pro Plumbing, no confidential customer or business information is included in this repository.
-
+This project was completed for Calgary Pro Plumbing as part of a real business analytics engagement. To protect client confidentiality, the dataset included in this repository has been simulated and anonymized. The analyses, dashboards, and business recommendations reflect the original project methodology while using non-confidential data.
 ---
 
 ## Future Improvements
