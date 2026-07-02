@@ -128,7 +128,7 @@ Some of the insights generated include:
 
 ### Executive Dashboard
 
-![Executive Dashboard](images/dashboard1.png)
+![Executive Dashboard](images/Dashboard1.png)
 
 ---
 ## Data Notice
