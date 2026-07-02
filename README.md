@@ -138,7 +138,6 @@ This project was completed for Calgary Pro Plumbing as part of a real business a
 ---
 
 ## Future Improvements
-## Future Improvements
 
 Potential future enhancements include:
 
