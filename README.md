@@ -124,10 +124,11 @@ Some of the insights generated include:
 - Data Storytelling
 
 ---
-
 ## Dashboard Preview
 
-Dashboard screenshots can be found in the **images** folder.
+### Executive Dashboard
+
+![Executive Dashboard](images/dashboard1.png)
 
 ---
 ## Data Notice
